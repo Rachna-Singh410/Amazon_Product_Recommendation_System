@@ -14,4 +14,5 @@ pandas etc.
 ```
 pip install library_name
 ```
-
+### Dataset
+I took dataset from http://snap.stanford.edu/data/web-Amazon.html. In this dataset columns are id, product id, profile name, score, summary,text.
